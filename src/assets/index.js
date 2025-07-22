@@ -1,6 +1,6 @@
 
 // Logo
-import bl33hIcon from './logo/icon.png';
+import abbyIcon from './logo/icon.png';
 
 // Technologies
 import htmlIcon from './tech/html.png';
@@ -51,5 +51,5 @@ export {
   pawsitivePrototype,
   memoryGame,
   avatar,
-  bl33hIcon,
+  abbyIcon,
 };
